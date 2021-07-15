@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/visual-arts", {data:[{}],fetch:{},mutations:[]});

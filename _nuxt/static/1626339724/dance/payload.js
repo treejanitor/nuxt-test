@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/dance", {data:[{}],fetch:{},mutations:[]});
